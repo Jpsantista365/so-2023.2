@@ -1,0 +1,3 @@
+# Hello World
+nome="João Paulo"
+echo "Ola, $nome"
